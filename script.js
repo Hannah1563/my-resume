@@ -184,3 +184,4 @@ document.addEventListener('DOMContentLoaded', function() {
     // Add click events to buttons
     nextBtn.addEventListener('click', nextSlide);
     prevBtn.addEventListener('click
+ 
